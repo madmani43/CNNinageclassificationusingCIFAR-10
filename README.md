@@ -1,1 +1,1 @@
-# CNNinageclassificationusingCIFAR-10
+# CNNimageclassificationusingCIFAR-10
